@@ -24,7 +24,9 @@ With the help of the dataset we will examine the dataset with SQL and help the s
 	PgAdmin4
 
 Table Realationship 
-Photo
+
+<img width="594" alt="schema_diagram" src="https://github.com/abhishekprasad5/Music_Store_Analysis_using_SQL/assets/90919278/e49233e9-d7a5-4b2a-a775-606c70c71673">
+
 
 Database Name: MUSICDB
 
